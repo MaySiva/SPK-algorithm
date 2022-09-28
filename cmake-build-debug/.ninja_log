@@ -1,0 +1,7 @@
+# ninja log v5
+95	577	6859152705521469	CMakeFiles/final_project.dir/vectorOperations.c.obj	3ced0f732ef25dcb
+48	579	6859152705531440	CMakeFiles/final_project.dir/kmeans.c.obj	809d040f450de1f3
+71	580	6859152705521469	CMakeFiles/final_project.dir/matrixOperations.c.obj	7400bf6ce72c24ac
+2	608	6859152705836163	CMakeFiles/final_project.dir/spkmeans.c.obj	bb4f07bd3a868546
+26	676	6859152706516273	CMakeFiles/final_project.dir/spkmeansmodule.c.obj	cfb143b98207d54d
+678	940	6859152709037942	final_project.exe	b193440397ac054c

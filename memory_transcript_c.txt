@@ -1,0 +1,371 @@
+MEMORY LEAK RESULT FOR: c: wam: spk_0.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: wam: spk_1.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: wam: spk_2.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: wam: spk_3.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: wam: spk_4.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: wam: spk_5.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: wam: spk_6.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: wam: spk_7.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: wam: spk_8.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: wam: spk_9.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: ddg: spk_0.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: ddg: spk_1.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: ddg: spk_2.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: ddg: spk_3.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: ddg: spk_4.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: ddg: spk_5.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: ddg: spk_6.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: ddg: spk_7.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: ddg: spk_8.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: ddg: spk_9.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: lnorm: spk_0.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: lnorm: spk_1.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: lnorm: spk_2.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: lnorm: spk_3.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: lnorm: spk_4.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: lnorm: spk_5.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: lnorm: spk_6.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: lnorm: spk_7.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: lnorm: spk_8.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: lnorm: spk_9.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_0.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_1.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_2.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_3.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_4.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_5.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_6.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_7.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_8.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_9.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_10.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_11.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_12.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_13.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_14.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_15.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_16.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_17.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_18.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_19.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_20.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_21.txt:
+
+
+
+
+
+
+MEMORY LEAK RESULT FOR: c: jacobi: jacobi_22.txt:
+
+
+
+
+
+
